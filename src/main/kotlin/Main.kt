@@ -11,7 +11,7 @@ fun main() {
 
     //Using Data types
     val x:Int = 12  //4 bytes
-    val y:Long =13  //8 bytes
+    val y:Long =13  //8 bytes.....
     val z = x + y
     println("The sum of $x and $y is $z")
 
